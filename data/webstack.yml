@@ -4,10 +4,11 @@
   icon: fa-star
   links: 
     - title: Google AI Studio
-      logo: 
+      logo: images/logos/google.png
       url: https://aistudio.google.com/
       description: 全球UIGoogle AI Studio 是一个基于浏览器的集成开发环境（IDE），它允许用户使用生成模型来设计原型设计师作品分享平台。
     - title: Google gemini
+      logo: images/logos/gemini-line.png
       url: https://gemini.google.com/app
       description: Google 旗下的AI 助理。在写作、规划和开展头脑风暴等方面获得帮助。
     - title: Medium
