@@ -28,13 +28,13 @@
       description: 全球最大的UI学习分享平台
     
 
-- taxonomy: 社区咨询
+- taxonomy: 网络相关
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
+    - title: EdgeTunnel后台设置页面
       logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
+      url: https://cmed.96237788.xyz/login
+      description: EdgeTunnel后台设置页面
     - title: 36kr
       logo: images/logos/36kr.png
       url: https://36kr.com/
