@@ -25,6 +25,18 @@
           url:  https://huggingface.co/
           logo: images/logos/huggingface-icon.png
           description: Hugging Face是一家美国公司，专门开发用于构建机器学习应用的工具。
+        - title: ChapGPT
+          url:  https://chatgpt.com/
+          logo: images/logos/chatgpt-copy.png
+          description: ChatGPT 是由OpenAI 开发并基于GPT-4O 的多模态生成式AI 聊天机器人。
+        - title: 即梦4.5
+          url:  https://seed.bytedance.com/en/seedream4_5
+          logo: images/logos/jimengAI.png
+          description: 即梦AI是字节跳动旗下剪映团队开发的生成式人工智能创作平台。
+        - title: QwenAI
+          url:  https://chat.qwen.ai/
+          logo: images/logos/jQWen.png
+          description: 通义千问是由阿里云自主研发的大模型，用于理解和分析用户输入的自然语言，以及图片、音频、视频等多模态数据。
       
     - term: 提示词
       links:
@@ -32,10 +44,10 @@
           url: https://promptgather.io/prompts/nano-banana-pro
           logo: images/logos/tishici.png
           description: NanoBanana Pro搜索和分类功能的图库版本
-        - title: Adobe XD
-          url: http://www.adobe.com/products/xd.html
+        - title: Pixonaryai提示词库
+          url: https://www.pixonaryai.com/
           logo: images/logos/ADOBEXDCC.png
-          description: Introducing Adobe XD. Design. Prototype. Experience.
+          description: 一系列精选的视觉叙事作品，展现了人类创造力与人工智能的协同作用。探索数字艺术的前沿领域。
         - title: invisionapp
           url: https://www.invisionapp.com/
           logo: images/logos/invisionapp.png
