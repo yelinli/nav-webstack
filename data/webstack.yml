@@ -13,6 +13,18 @@
           url:  https://gemini.google.com/app
           logo: images/logos/gemini-line.png
           description: Google 旗下的AI 助理。在写作、规划和开展头脑风暴等方面获得帮助。
+        - title: 哩布哩布
+          url:  https://www.liblib.art/
+          logo: images/logos/liblib.png
+          description: 中国领先的AI创作平台。
+        - title: Civitai
+          url:  https://civitai.com/
+          logo: images/logos/civitai-icon.png
+          description: 专注于稳定扩散（Stable Diffusion）AI艺术模型的免费开源模型共享平台。
+        - title: Huggingface
+          url:  https://huggingface.co/
+          logo: images/logos/huggingface-icon.png
+          description: Hugging Face是一家美国公司，专门开发用于构建机器学习应用的工具。
       
     - term: 提示词
       links:
