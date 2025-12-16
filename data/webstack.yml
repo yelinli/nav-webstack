@@ -6,13 +6,13 @@
     - term: AI综合
       links:
         - title: Google AI Studio
-      logo: images/logos/google.png
-      url: https://aistudio.google.com/
-      description: 全球UIGoogle AI Studio 是一个基于浏览器的集成开发环境（IDE），它允许用户使用生成模型来设计原型设计师作品分享平台。
-    - title: Google gemini
-      logo: images/logos/gemini-line.png
-      url: https://gemini.google.com/app
-      description: Google 旗下的AI 助理。在写作、规划和开展头脑风暴等方面获得帮助。
+          url: https://aistudio.google.com/
+          logo: images/logos/google.png
+          description: 全球UIGoogle AI Studio 是一个基于浏览器的集成开发环境（IDE），它允许用户使用生成模型来设计原型设计师作品分享平台。
+        - title: Google gemini
+          url:  https://gemini.google.com/app
+          logo: images/logos/gemini-line.png
+          description: Google 旗下的AI 助理。在写作、规划和开展头脑风暴等方面获得帮助。
       
     - term: 提示词
       links:
@@ -40,46 +40,6 @@
           url: https://www.figma.com/
           logo: images/logos/figma.png
           description: Design, prototype, and gather feedback all in one place with Figma.
-
-
-    - term: 在线工具
-      links:
-        - title: 哩布哩布
-          url: hhttps://www.liblib.art/
-          logo: images/logos/tinypng.png
-          description: 中国领先的AI创作平台.
-        - title: goqr
-          url: http://goqr.me/
-          logo: images/logos/goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
-        - title: ezgif
-          url: https://ezgif.com
-          logo: images/logos/ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: images/logos/Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows       
-        
-    - term: Chrome插件
-      links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: images/logos/wappalyzer.png
-          description: Identify technology on websites
-        - title: Panda
-          url: http://usepanda.com/
-          logo: images/logos/usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: images/logos/sizzy.png
-          description: A tool for developing responsive websites crazy-fast
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: images/logos/csspeeper.png
-          description: Smart CSS viewer tailored for Designers.    
-   
 
 - taxonomy: 网络相关
   icon: fa-regular fa-newspaper
